@@ -1,2 +1,5 @@
-# vote_system
-An C system to manage fair elections on Internet
+# vote system
+A C system to manage fair elections on Internet
+
+- shared memories
+- multi threaddings

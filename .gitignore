@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+CMakeLists.txt
+main.cpp
+*.mk
+.idea
 
 # Object files
 *.o
@@ -13,6 +17,7 @@
 *.exp
 
 # Precompiled Headers
+cmake-build-debug
 *.gch
 *.pch
 
